@@ -1,0 +1,6 @@
+2025-01-10 10:01:23 INFO Login success user=admin ip=192.168.1.10
+2025-01-10 10:02:10 WARNING Login failed user=admin ip=192.168.1.15
+2025-01-10 10:02:15 WARNING Login failed user=admin ip=192.168.1.15
+2025-01-10 10:02:20 WARNING Login failed user=admin ip=192.168.1.15
+2025-01-10 10:05:00 INFO Login success user=user1 ip=192.168.1.20
+2025-01-10 10:06:30 WARNING Login failed user=root ip=10.0.0.5
